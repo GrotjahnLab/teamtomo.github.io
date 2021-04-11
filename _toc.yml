@@ -91,6 +91,7 @@
             - file: resources/literature/book-chapters/fiducial-alignments-mastronarde07
     - file: resources/cryoet-software/cryoet-software
       sections:
+        - file: resources/cryoet-software/autolamella/autolamella
         - file: resources/cryoet-software/cryolo/cryolo
         - file: resources/cryoet-software/dynamo/dynamo
           sections:
